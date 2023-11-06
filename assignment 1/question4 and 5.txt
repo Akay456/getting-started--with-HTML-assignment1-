@@ -1,0 +1,18 @@
+﻿Q 4 Write a short note on tag and Element with an Example ?
+Ans- Tag 
+Tags are the special word that gives  meaning or structure to HTML.Tags start with a opening tag (<tag>)and end with a closing  tag  (</tag>) which has a forward slash in the beginning unlike the opening tag. The tags can be written in either of the case which is upper or lower . the change in cases does not affect its functionality.
+Example of tags are - <p></p>
+
+
+Elements 
+Elements majorly consist of the opening tag,closing tag and the content.
+The opening tag<tag>- it is written at the start the element.
+The content - this could be any content written in between opening and the closing tag .
+The closing tag </tag>- it is written at the end of the content to close the element 
+Below is the structure of the element 
+<p> content <p>
+Example- <p> this is my name </p>
+
+
+ Q5. What is DOCTYPE Declaration in HTML?
+Ans - The DOCTYPE declaration is to inform or instruct the web browsers about the version of HTML used in that specific HTML code. Its also ensures the web page is parsed the same way by different web browsers.
